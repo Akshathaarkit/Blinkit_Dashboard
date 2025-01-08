@@ -1,4 +1,4 @@
-# BlinkIT Grocery Data Analysis - Power BI Dashboard
+# Blinkit Grocery Data Analysis - Power BI Dashboard
 
 ## Overview
 This project presents a comprehensive Power BI dashboard analyzing BlinkIT's grocery sales and performance metrics. The analysis focuses on product categories, sales trends, regional distribution, and store-level performance to provide actionable insights for business decisions.
